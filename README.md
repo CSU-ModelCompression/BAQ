@@ -26,5 +26,8 @@ All experiments were run on a single 80GB NVIDIA A100. However, most experiments
 
 ```
 set CUDA_VISIBLE_DEVICES=0
+# Aeverage rate = 3 bits
+python opt_baq.py facebook/opt-125m c4 --wbits 3
+# Aeverage rate = 2 bits
 python opt_baq.py facebook/opt-125m c4 --wbits 2
 ```

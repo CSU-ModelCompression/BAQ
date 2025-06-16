@@ -1,6 +1,6 @@
 # BAQ: Efficient Bit Allocation Quantization for Large Language Models
 
-This repository contains code for the paper [BAQ: Efficient Bit Allocation Quantization for Large Language Models](https://openreview.net/forum?id=fZ0uynYFHX).
+This repository contains code for the paper [BAQ: Efficient Bit Allocation Quantization for Large Language Models](https://www.arxiv.org/pdf/2506.05664).
 
 The code is built on top of [OPTQ's repository](https://github.com/IST-DASLab/gptq).
 

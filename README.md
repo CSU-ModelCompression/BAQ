@@ -31,3 +31,4 @@ python opt_baq.py facebook/opt-125m c4 --wbits 3
 # Aeverage rate = 2 bits
 python opt_baq.py facebook/opt-125m c4 --wbits 2
 ```
+To run other OPT models, replace opt-125m with one of: opt-350m, opt-1.3b, opt-2.7b, opt-6.7b, opt-13b.
